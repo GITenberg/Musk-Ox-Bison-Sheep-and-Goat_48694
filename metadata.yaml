@@ -1,9 +1,13 @@
 _repo: Musk-Ox-Bison-Sheep-and-Goat_48694
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 48694-h/images/cover.jpg
 creator:
   authors:
   - agent_name: Grinnell, George Bird
     birthdate: 1849
-    deathdate: &id001 1938
+    deathdate: 1938
     gutenberg_agent_id: '4021'
     url: http://www.gutenberg.org/2009/agents/4021
     wikipedia: http://en.wikipedia.org/wiki/George_Bird_Grinnell
@@ -12,11 +16,13 @@ creator:
     url: http://www.gutenberg.org/2009/agents/44928
   - agent_name: Wister, Owen
     birthdate: 1860
-    deathdate: *id001
+    deathdate: 1938
     gutenberg_agent_id: '450'
     url: http://www.gutenberg.org/2009/agents/450
     wikipedia: http://en.wikipedia.org/wiki/Owen_Wister
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/48694#Musk-Ox-Bison-Sheep-and-Goat
 gutenberg_issued: '2015-04-12'
 gutenberg_type: Text
 identifiers:
